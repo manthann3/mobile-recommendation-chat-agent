@@ -1,0 +1,2 @@
+/* minimal global styles */
+html,body,#__next { height: 100%; margin: 0; padding: 0; background: #f8fafc; font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; }

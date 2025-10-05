@@ -1,0 +1,20 @@
+{
+  "name": "shopping-chat-agent-gemini",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "next": "13.x",
+    "react": "18.x",
+    "react-dom": "18.x"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.37.0",
+    "globals": "^16.4.0"
+  }
+}

@@ -1,0 +1,222 @@
+[
+    {
+      "id": 1,
+      "brand": "Google",
+      "model": "Pixel 8a",
+      "price": 29999,
+      "camera": "64MP",
+      "battery": "4500mAh",
+      "display": "6.1 inch OLED",
+      "oneHandUse": true,
+      "fastCharging": "18W"
+    },
+    {
+      "id": 2,
+      "brand": "OnePlus",
+      "model": "12R",
+      "price": 32999,
+      "camera": "50MP",
+      "battery": "5000mAh",
+      "display": "6.7 inch AMOLED",
+      "oneHandUse": false,
+      "fastCharging": "80W"
+    },
+    {
+      "id": 3,
+      "brand": "Samsung",
+      "model": "Galaxy A54",
+      "price": 24999,
+      "camera": "50MP",
+      "battery": "5000mAh",
+      "display": "6.4 inch AMOLED",
+      "oneHandUse": false,
+      "fastCharging": "25W"
+    },
+    {
+      "id": 4,
+      "brand": "Xiaomi",
+      "model": "Redmi Note 12",
+      "price": 13999,
+      "camera": "108MP",
+      "battery": "5000mAh",
+      "display": "6.67 inch AMOLED",
+      "oneHandUse": false,
+      "fastCharging": "33W"
+    },
+    {
+      "id": 5,
+      "brand": "Samsung",
+      "model": "Galaxy S23",
+      "price": 69999,
+      "camera": "50MP",
+      "battery": "3900mAh",
+      "display": "6.1 inch AMOLED",
+      "oneHandUse": true,
+      "fastCharging": "25W"
+    },
+    {
+      "id": 6,
+      "brand": "Apple",
+      "model": "iPhone 14",
+      "price": 79999,
+      "camera": "12MP",
+      "battery": "3279mAh",
+      "display": "6.1 inch OLED",
+      "oneHandUse": true,
+      "fastCharging": "20W"
+    },
+    {
+      "id": 7,
+      "brand": "Realme",
+      "model": "GT Neo 5",
+      "price": 26999,
+      "camera": "64MP",
+      "battery": "5000mAh",
+      "display": "6.7 inch AMOLED",
+      "oneHandUse": false,
+      "fastCharging": "240W"
+    },
+    {
+      "id": 8,
+      "brand": "Vivo",
+      "model": "V27",
+      "price": 22999,
+      "camera": "50MP",
+      "battery": "4600mAh",
+      "display": "6.55 inch AMOLED",
+      "oneHandUse": false,
+      "fastCharging": "44W"
+    },
+    {
+      "id": 9,
+      "brand": "Motorola",
+      "model": "Edge 40",
+      "price": 34999,
+      "camera": "50MP",
+      "battery": "4400mAh",
+      "display": "6.55 inch pOLED",
+      "oneHandUse": false,
+      "fastCharging": "68W"
+    },
+    {
+      "id": 10,
+      "brand": "Poco",
+      "model": "X6 Pro",
+      "price": 17999,
+      "camera": "64MP",
+      "battery": "5080mAh",
+      "display": "6.67 inch AMOLED",
+      "oneHandUse": false,
+      "fastCharging": "67W"
+    },
+    {
+      "id": 11,
+      "brand": "Samsung",
+      "model": "Galaxy M33",
+      "price": 11999,
+      "camera": "50MP",
+      "battery": "6000mAh",
+      "display": "6.6 inch TFT",
+      "oneHandUse": false,
+      "fastCharging": "25W"
+    },
+    {
+      "id": 12,
+      "brand": "Google",
+      "model": "Pixel 7a",
+      "price": 28999,
+      "camera": "64MP",
+      "battery": "4385mAh",
+      "display": "6.1 inch OLED",
+      "oneHandUse": true,
+      "fastCharging": "18W"
+    },
+    {
+      "id": 13,
+      "brand": "OnePlus",
+      "model": "Nord CE 3",
+      "price": 19999,
+      "camera": "50MP",
+      "battery": "5000mAh",
+      "display": "6.7 inch AMOLED",
+      "oneHandUse": false,
+      "fastCharging": "80W"
+    },
+    {
+      "id": 14,
+      "brand": "Mi",
+      "model": "11X",
+      "price": 15999,
+      "camera": "108MP",
+      "battery": "4520mAh",
+      "display": "6.67 inch AMOLED",
+      "oneHandUse": false,
+      "fastCharging": "33W"
+    },
+    {
+      "id": 15,
+      "brand": "Oppo",
+      "model": "F21 Pro",
+      "price": 15999,
+      "camera": "64MP",
+      "battery": "4500mAh",
+      "display": "6.43 inch AMOLED",
+      "oneHandUse": false,
+      "fastCharging": "33W"
+    },
+    {
+      "id": 16,
+      "brand": "Sony",
+      "model": "Xperia 10 IV",
+      "price": 27999,
+      "camera": "12MP",
+      "battery": "5000mAh",
+      "display": "6.0 inch OLED",
+      "oneHandUse": true,
+      "fastCharging": "30W"
+    },
+    {
+      "id": 17,
+      "brand": "Asus",
+      "model": "ROG Phone 6",
+      "price": 64999,
+      "camera": "50MP",
+      "battery": "6000mAh",
+      "display": "6.78 inch AMOLED",
+      "oneHandUse": false,
+      "fastCharging": "65W"
+    },
+    {
+      "id": 18,
+      "brand": "Nokia",
+      "model": "G50",
+      "price": 9999,
+      "camera": "48MP",
+      "battery": "5050mAh",
+      "display": "6.82 inch IPS",
+      "oneHandUse": false,
+      "fastCharging": "20W"
+    },
+    {
+      "id": 19,
+      "brand": "Honor",
+      "model": "Magic5 Lite",
+      "price": 21999,
+      "camera": "50MP",
+      "battery": "4800mAh",
+      "display": "6.5 inch OLED",
+      "oneHandUse": false,
+      "fastCharging": "66W"
+    },
+    {
+      "id": 20,
+      "brand": "Infinix",
+      "model": "Note 12",
+      "price": 12999,
+      "camera": "50MP",
+      "battery": "5000mAh",
+      "display": "6.7 inch AMOLED",
+      "oneHandUse": false,
+      "fastCharging": "33W"
+    }
+  ]
