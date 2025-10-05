@@ -1,15 +1,5 @@
-Structure:
-- pages/index.js
-- components/
-  - ChatAssistant.jsx    (main orchestrator)
-  - Header.jsx
-  - SuggestionChips.jsx
-  - Conversation.jsx
-  - MessageBubble.jsx
-  - ComparisonTable.jsx
-  - InputArea.jsx
-  - ClearDialog.jsx
-  - utils.jsx
+About App:
+A mobile application that provides personalized recommendations to users based on their preferences, behavior, and data.
 
 How to run:
 1. `npm install`
